@@ -21,7 +21,7 @@ React DatePicker
 [![dependencies Status](https://david-dm.org/y0c/react-datepicker/status.svg)](https://david-dm.org/y0c/react-datepicker)
 [![devDependencies Status](https://david-dm.org/y0c/react-datepicker/dev-status.svg)](https://david-dm.org/y0c/react-datepicker?type=dev)
 [![Storybook](https://github.com/storybooks/brand/blob/master/badge/badge-storybook.svg)](https://y0c.github.io/react-datepicker)
-[![NPM Download](https://img.shields.io/npm/dt/@y0c/react-datepicker.svg?style=flat)](https://www.npmjs.com/package/@y0c/react-datepicker)
+[![NPM Download](https://img.shields.io/npm/dt/@evneandrey/react-datepicker.svg?style=flat)](https://www.npmjs.com/package/@evneandrey/react-datepicker)
 [![Join the chat at https://gitter.im/react-datepicker/community](https://badges.gitter.im/react-datepicker/community.svg)](https://gitter.im/react-datepicker/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 </p>
@@ -71,9 +71,9 @@ In previous versions, moment.js were used. but now it is changed to `Day.js` to 
 ## 📲 Installation 
 
 ```sh
-yarn add @y0c/react-datepicker
+yarn add @evneandrey/react-datepicker
 # or 
-npm install --save @y0c/react-datepicker
+npm install --save @evneandrey/react-datepicker
 ```
 
 ## 💡 Examples 
@@ -83,10 +83,10 @@ npm install --save @y0c/react-datepicker
 ```javascript
 // import Calendar Component 
 import React, { Component } from 'react';
-import { DatePicker } from '@y0c/react-datepicker';
+import { DatePicker } from '@evneandrey/react-datepicker';
 // import calendar style 
 // You can customize style by copying asset folder.
-import '@y0c/react-datepicker/assets/styles/calendar.scss';
+import '@evneandrey/react-datepicker/assets/styles/calendar.scss';
 
 class DatePickerExample extends Component {
 
@@ -160,11 +160,11 @@ $divider-color: #e4e4e4;
 $today-bg-color: #fff9c4;
 
 // import mixin 
-@import "../node_modules/@y0c/react-datepicker/assets/styles/_mixin.scss";
+@import "../node_modules/@evneandrey/react-datepicker/assets/styles/_mixin.scss";
 // import app scss
 // if you want other style customize 
 // app.scss copy & rewrite !
-@import "../node_modules/@y0c/react-datepicker/assets/styles/app.scss";
+@import "../node_modules/@evneandrey/react-datepicker/assets/styles/app.scss";
 
 ```
 
