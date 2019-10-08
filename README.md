@@ -14,12 +14,12 @@ React DatePicker
 <p align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) [![npm version](https://badge.fury.io/js/%40y0c%2Freact-datepicker.svg)](https://badge.fury.io/js/%40y0c%2Freact-datepicker) 
-[![Build Status](https://travis-ci.com/y0c/react-datepicker.svg?branch=master)](https://travis-ci.com/y0c/react-datepicker)
-[![codecov](https://codecov.io/gh/y0c/react-datepicker/branch/master/graph/badge.svg)](https://codecov.io/gh/y0c/react-datepicker)
-[![Maintainability](https://api.codeclimate.com/v1/badges/e2a0ba59adb7412eae87/maintainability)](https://codeclimate.com/github/y0c/react-datepicker/maintainability)
+[![Build Status](https://travis-ci.com/evneandrey/react-datepicker.svg?branch=master)](https://travis-ci.com/evneandrey/react-datepicker)
+[![codecov](https://codecov.io/gh/evneandrey/react-datepicker/branch/master/graph/badge.svg)](https://codecov.io/gh/evneandrey/react-datepicker)
+[![Maintainability](https://api.codeclimate.com/v1/badges/e2a0ba59adb7412eae87/maintainability)](https://codeclimate.com/github/evneandrey/react-datepicker/maintainability)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
-[![dependencies Status](https://david-dm.org/y0c/react-datepicker/status.svg)](https://david-dm.org/y0c/react-datepicker)
-[![devDependencies Status](https://david-dm.org/y0c/react-datepicker/dev-status.svg)](https://david-dm.org/y0c/react-datepicker?type=dev)
+[![dependencies Status](https://david-dm.org/evneandrey/react-datepicker/status.svg)](https://david-dm.org/evneandrey/react-datepicker)
+[![devDependencies Status](https://david-dm.org/evneandrey/react-datepicker/dev-status.svg)](https://david-dm.org/evneandrey/react-datepicker?type=dev)
 [![Storybook](https://github.com/storybooks/brand/blob/master/badge/badge-storybook.svg)](https://y0c.github.io/react-datepicker)
 [![NPM Download](https://img.shields.io/npm/dt/@evneandrey/react-datepicker.svg?style=flat)](https://www.npmjs.com/package/@evneandrey/react-datepicker)
 [![Join the chat at https://gitter.im/react-datepicker/community](https://badges.gitter.im/react-datepicker/community.svg)](https://gitter.im/react-datepicker/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -180,7 +180,7 @@ This component is managed by a `storybook` which is combined with `develop envir
 
 ```sh
 # clone this project
-git clone https://github.com/y0c/react-datepicker.git
+git clone https://github.com/evneandrey/react-datepicker.git
 # install dependency
 yarn
 # start storybook 
@@ -192,7 +192,7 @@ Open your browser and connect http://localhost:6006
 
 Please fork and use [https://codesandbox.io/s/pw6n17pk57](https://codesandbox.io/s/pw6n17pk57) to reproduce your problem.
 
-* Open a new issue(Bug or Feature) on [Github](https://github.com/y0c/react-datepicker/issues/new/choose)
+* Open a new issue(Bug or Feature) on [Github](https://github.com/evneandrey/react-datepicker/issues/new/choose)
 * Join the [Gitter room](https://gitter.im/react-datepicker/community) to chat with other developers.
 
 ## 👨‍👦‍👦 Contribution 
