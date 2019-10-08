@@ -1,12 +1,12 @@
 {
-  "name": "@y0c/react-datepicker",
+  "name": "@evneandrey/react-datepicker",
   "version": "1.0.1",
   "description": "Flexible, Reusable, Mobile friendly DatePicker Component",
-  "author": "y0c",
+  "author": "evneandrey",
   "license": "MIT",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
-  "homepage": "https://github.com/y0c/react-datepicker",
+  "homepage": "https://github.com/evneandrey/react-datepicker",
   "scripts": {
     "dev": "cross-env NODE_ENV=dev webpack-dev-server --progress --mode development --config webpack.config.dev.js",
     "build": "npx tsc",
@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://y0c@github.com/y0c/react-datepicker.git"
+    "url": "git+https://evneandrey@github.com/evneandrey/react-datepicker.git"
   },
   "dependencies": {
     "classnames": "^2.2.6",
@@ -133,7 +133,7 @@
     "webpack-merge": "4.2.1"
   },
   "bugs": {
-    "url": "https://github.com/y0c/react-datepicker/issues"
+    "url": "https://github.com/evneandrey/react-datepicker/issues"
   },
   "keywords": [
     "react",
