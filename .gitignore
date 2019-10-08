@@ -1,0 +1,21 @@
+## System and generated files
+.idea/
+.DS_Store
+.vscode/
+.sass-cache
+.jest.test.result.json
+
+## Directories
+log/
+dist/
+node_modules/
+coverage/
+bower_components/
+storybook-static/
+demo/
+lib/
+
+## Files
+result.xml
+*.log
+out*/

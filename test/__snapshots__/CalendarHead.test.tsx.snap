@@ -1,0 +1,109 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<CalendarHead/> should props onPrev, onNext correctly 1`] = `
+<div
+  className="calendar__head"
+>
+  <div
+    className="calendar__head--prev"
+  >
+    <button
+      className="calendar__head--button"
+      onClick={[Function]}
+    >
+      <SVGIcon
+        color="currentColor"
+        id="left-arrow"
+        size="16"
+      />
+    </button>
+  </div>
+  <h2
+    className="calendar__head--title"
+  />
+  <div
+    className="calendar__head--next"
+  >
+    <button
+      className="calendar__head--button"
+      onClick={[Function]}
+    >
+      <SVGIcon
+        color="currentColor"
+        id="right-arrow"
+        size="16"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`<CalendarHead/> should props prevIcon, nextIcon correctly 1`] = `
+<div
+  className="calendar__head"
+>
+  <div
+    className="calendar__head--prev"
+  >
+    <button
+      className="calendar__head--button"
+    >
+      <SVGIcon
+        color="currentColor"
+        id="left-arrow"
+        size="16"
+      />
+    </button>
+  </div>
+  <h2
+    className="calendar__head--title"
+  />
+  <div
+    className="calendar__head--next"
+  >
+    <button
+      className="calendar__head--button"
+    >
+      <SVGIcon
+        color="currentColor"
+        id="right-arrow"
+        size="16"
+      />
+    </button>
+  </div>
+</div>
+`;
+
+exports[`<CalendarHead/> should props title correctly 1`] = `
+<div
+  className="calendar__head"
+>
+  <div
+    className="calendar__head--prev"
+  />
+  <h2
+    className="calendar__head--title"
+  >
+    2019/01
+  </h2>
+  <div
+    className="calendar__head--next"
+  />
+</div>
+`;
+
+exports[`<CalendarHead/> should render correctly 1`] = `
+<div
+  className="calendar__head"
+>
+  <div
+    className="calendar__head--prev"
+  />
+  <h2
+    className="calendar__head--title"
+  />
+  <div
+    className="calendar__head--next"
+  />
+</div>
+`;

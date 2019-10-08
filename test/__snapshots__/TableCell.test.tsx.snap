@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TableCell/> renders with no props 1`] = `
+<td
+  className="test"
+  onClick={[Function]}
+  onMouseOver={[Function]}
+>
+  <div>
+    test
+  </div>
+  <span
+    className="sub__text"
+  >
+    test
+  </span>
+</td>
+`;
